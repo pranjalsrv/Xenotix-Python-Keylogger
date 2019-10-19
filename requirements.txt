@@ -1,0 +1,5 @@
+object-detection==0.1
+pyHook==1.5.1
+pypiwin32==223
+pywin32==225
+https://www.lfd.uci.edu/~gohlke/pythonlibs/pyHook-1.5.1-cp36-cp36m-win_amd64.whl

@@ -1,0 +1,118 @@
+nohup: ignoring input
+Multiple Instance not Allowed
+
+ 
+Xenotix Python Keylogger for Windows
+Coder: Ajin Abraham <ajin25@gmail.com>
+OPENSECURITY.IN
+
+usage:xenotix_python_logger.py mode [optional:startup]
+
+mode:
+     local: store the logs in a file [keylogs.txt]
+     
+     remote: send the logs to a Google Form. You must specify the Form URL and Field Name in the script.
+     
+     email: send the logs to an email. You must specify (SERVER,PORT,USERNAME,PASSWORD,TO).
+     
+     ftp: upload logs file to an FTP account. You must specify (SERVER,USERNAME,PASSWORD,SSL OPTION,OUTPUT DIRECTORY).
+
+[optional] startup: This will add the keylogger to windows startup.
+
+
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
+TypeError: an integer is required (got type NoneType)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 348, in KeyboardSwitch
+    event = KeyboardEvent(msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name)
+SystemError: <class 'pyHook.HookManager.KeyboardEvent'> returned a result with an error set
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\Users\pranj\Desktop\Trials\Xenotix-Python-Keylogger\keylog\lib\site-packages\pyHook\HookManager.py", line 329, in KeyboardSwitch
+    def KeyboardSwitch(self, msg, vk_code, scan_code, ascii, flags, time, hwnd, win_name):
+KeyboardInterrupt
